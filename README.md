@@ -48,7 +48,7 @@ The corresponding tests can be found in `tests/test_lab1.py`. Remember, you don'
 Make all of the tests in
 
 `tests/test_lab1.py`
-`tests/test_lab12py`
-`tests/test_lab13py`
+`tests/test_lab2.py`
+`tests/test_lab3.py`
 
 run smoothly. At the end of the labs you should be able to go to http://127.0.0.1:5000/greeting?messge=Hello&name=YourName. You can play around with the message and name!
