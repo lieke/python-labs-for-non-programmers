@@ -4,7 +4,7 @@ This project contains a series of Python 'labs' designed to teach non-programmer
 
 ## Structure
 
-- `labs/` — Contains individual lab modules (e.g., `lab1.py`).
+- `labs/` — Contains individual lab modules (e.g., `basics.py`).
 - `tests/` — Contains unit tests for each lab.
 
 The labs are created in such a way that the only code you need to change is in the labs folder. The tests should stay the same the entire time.
@@ -42,3 +42,13 @@ The tests will fail, but don't worry! They are supposed to. Your task is to make
 Start by reading and editing the code in `labs/basics.py`. Once you fix the first test, the automatic testing will fail on the next unit test.
 
 The corresponding tests can be found in `tests/test_lab1.py`. Remember, you don't change any of the testing code!
+
+#### 5. Make all the tests green
+
+Make all of the tests in
+
+`tests/test_lab1.py`
+`tests/test_lab12py`
+`tests/test_lab13py`
+
+run smoothly. At the end of the labs you should be able to go to http://127.0.0.1:5000/greeting?messge=Hello&name=YourName. You can play around with the message and name!
